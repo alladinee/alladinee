@@ -4,7 +4,6 @@ Data analyst on a mission to become a data scientist. Turning raw data into insi
 
 Skills: Python | SQL | MS Excel | MS PowerBI | Tableau
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Science 
 - ⚡ Fun fact: I like tea 
 
@@ -13,5 +12,4 @@ Skills: Python | SQL | MS Excel | MS PowerBI | Tableau
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alladinee)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alladinee)  
-
+![Profile views](https://gpvc.arturio.dev/alladinee)  
